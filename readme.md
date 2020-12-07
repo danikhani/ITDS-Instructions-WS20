@@ -29,7 +29,8 @@ $ jupyter notebook
 * Instruction 3: Visualising Data and Decision Trees
 * Instruction 4: SVM and Regression
 * Instruction 5: Neural Networks
-
+* Instruction 6: Evaluation of supervised learning
+* Instruction 7: Clustering and Frequent Item Sets
 ## Authors:
 * **Danial Hezarkhani**
 
