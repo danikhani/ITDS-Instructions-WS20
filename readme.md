@@ -31,6 +31,10 @@ $ jupyter notebook
 * Instruction 5: Neural Networks
 * Instruction 6: Evaluation of supervised learning
 * Instruction 7: Clustering and Frequent Item Sets
+* Instruction 8: Association Rules and Sequence Mining
+* Instruction 10: Process Mining
+* Instruction 11: Text Mining
+* Instruction 12: Preprocessing & Advanced Vizualization
 ## Authors:
 * **Danial Hezarkhani**
 
