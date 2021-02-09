@@ -35,6 +35,8 @@ $ jupyter notebook
 * Instruction 10: Process Mining
 * Instruction 11: Text Mining
 * Instruction 12: Preprocessing & Advanced Vizualization
+* 
+* Instruction 14-15: Big Data, Hadoop
 ## Authors:
 * **Danial Hezarkhani**
 
